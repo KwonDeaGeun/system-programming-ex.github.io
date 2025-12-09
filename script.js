@@ -1,3 +1,9 @@
+// * file index.html
+// * name: Kwon Dae Guen
+// * email: dk31415@dankook.ac.kr
+// * date: 2025.12.09
+// * student ID: 32220236
+
 function bubbleSort(arr) {
     const a = arr.slice();
     const arrLength = a.length;

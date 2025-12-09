@@ -1,4 +1,4 @@
-// * file index.html
+// * file script.js
 // * name: Kwon Dae Guen
 // * email: dk31415@dankook.ac.kr
 // * date: 2025.12.09
